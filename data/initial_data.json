@@ -1,0 +1,60 @@
+{
+    "robots": [
+        {
+            "code": "rv1",
+            "name": "Rover #1",
+            "description": "Advanced autonomous vehicle designed for exploration and research purposes",
+            "model": "car",
+            "tech": [
+                "AI",
+                "car"
+            ],
+            "status": "progress"
+        },
+        {
+            "code": "tfx",
+            "name": "Transformer X",
+            "description": "Hybrid transformation robot with advanced mobility capabilities",
+            "model": "car",
+            "tech": [
+                "transformation",
+                "car",
+                "robot"
+            ],
+            "status": "active"
+        },
+        {
+            "code": "px1",
+            "name": "Pacifista 1",
+            "description": "Humanoid AI robot with advanced cognitive and physical capabilities",
+            "model": "humanoid",
+            "tech": [
+                "AI",
+                "robot"
+            ],
+            "status": "active"
+        },
+        {
+            "code": "ax8",
+            "name": "Android #8",
+            "description": "Cyborg humanoid with advanced neural network integration",
+            "model": "humanoid",
+            "tech": [
+                "cyborg",
+                "humanoid"
+            ],
+            "status": "active"
+        },
+        {
+            "code": "ax7",
+            "name": "Android #7",
+            "description": "Prototype cyborg humanoid with experimental design",
+            "model": "humanoid",
+            "tech": [
+                "cyborg",
+                "humanoid"
+            ],
+            "status": "inactive"
+        }
+    ]
+}
